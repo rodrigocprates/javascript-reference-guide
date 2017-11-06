@@ -22,6 +22,10 @@ Clean code principles with JS - https://medium.com/trainingcenter/c%C3%B3digo-li
 
 50 resources to start with JS - https://medium.com/coderbyte/50-resources-to-help-you-start-learning-javascript-in-2017-4c70b222a3b9
 
+### Repositories
+
+Node best practices curated - https://github.com/i0natan/nodebestpractices
+
 ### Video Content
 
 Fun Fun Function - https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured
